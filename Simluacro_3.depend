@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1607622782 source:c:\users\crisp\desktop\simluacro 3\simluacro_3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607621859 c:\users\crisp\desktop\simluacro 3\simluacro_3\linkedlist.h
+
+1607622775 c:\users\crisp\desktop\simluacro 3\simluacro_3\controller.h
+
+1607621859 c:\users\crisp\desktop\simluacro 3\simluacro_3\participante.h
+
+1607614466 c:\users\crisp\desktop\simluacro 3\simluacro_3\parser.h
+
+1607019557 c:\users\crisp\desktop\simluacro 3\simluacro_3\utn.h
+
+1607621887 source:c:\users\crisp\desktop\simluacro 3\simluacro_3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1607620726 source:c:\users\crisp\desktop\simluacro 3\simluacro_3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607622791 source:c:\users\crisp\desktop\simluacro 3\simluacro_3\participante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607621859 source:c:\users\crisp\desktop\simluacro 3\simluacro_3\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607019886 source:c:\users\crisp\desktop\simluacro 3\simluacro_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
